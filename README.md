@@ -1,6 +1,8 @@
 # Yape.AntiFraud.Challenge
 Desafío técnico Anti-Fraud para Yape
 Diagrama de secuencia
+
+```mermaid
 sequenceDiagram
     participant Plataforma
     participant BaseDeDatos
