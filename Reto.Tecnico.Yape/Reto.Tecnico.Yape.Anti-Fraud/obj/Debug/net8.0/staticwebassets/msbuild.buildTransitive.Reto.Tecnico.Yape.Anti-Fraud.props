@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Reto.Tecnico.Yape.Anti-Fraud.props" />
+</Project>

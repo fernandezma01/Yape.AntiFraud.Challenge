@@ -1,0 +1,17 @@
+﻿{
+  "profiles": {
+    "Yape.Anti_Fraud": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Messaging__Consumer_Host": "localhost:9092",
+        "Messaging__Consumer_GroupId": "test-group-id",
+        "Messaging__Producer_Host": "localhost:9092"
+      },
+      "applicationUrl": "http://localhost:55278"
+    }
+  }
+}
+

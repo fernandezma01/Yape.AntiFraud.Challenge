@@ -1,0 +1,6 @@
+@Reto.Tecnico.Yape.Anti_Fraud_HostAddress = http://localhost:5278
+
+GET {{Reto.Tecnico.Yape.Anti_Fraud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

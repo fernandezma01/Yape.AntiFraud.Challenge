@@ -1,0 +1,12 @@
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\bin\Debug\net8.0\Reto.Tecnico.Yape.Models.deps.json
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\bin\Debug\net8.0\Reto.Tecnico.Yape.Models.dll
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\bin\Debug\net8.0\Reto.Tecnico.Yape.Models.pdb
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.AssemblyInfoInputs.cache
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.AssemblyInfo.cs
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.csproj.CoreCompileInputs.cache
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.dll
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\refint\Reto.Tecnico.Yape.Models.dll
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.pdb
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\ref\Reto.Tecnico.Yape.Models.dll
+C:\GitHubPer\RetoTecnico\Yape_Reto_Tecnico\Reto.Tecnico.Yape\Reto.Tecnico.Yape.Models\obj\Debug\net8.0\Reto.Tecnico.Yape.Models.csproj.AssemblyReference.cache
