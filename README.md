@@ -11,7 +11,7 @@ sequenceDiagram
     participant Kafka2 as Kafka (validated-transactions-topic)
 
     Transacciones->>DbContext: Crear transacción
-    DbContext-->>Plataforma: Confirmación de creación
+    DbContext-->>Transacciones: Confirmación de creación
     Transacciones->>Kafka: Publicar mensaje en "transactions-validation"
     
     AntiFraud->>Kafka: Leer mensaje de "transactions-validation"
